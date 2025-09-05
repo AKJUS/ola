@@ -11,10 +11,10 @@
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-jscs": "^3.0.1",
-    "grunt-stylelint": "^0.16.0",
+    "grunt-stylelint": "^0.20.1",
     "olp-javascript-style": "OpenLightingProject/javascript-style",
-    "stylelint": "^13.8.0",
-    "stylelint-config-recommended": "^5.0.0"
+    "stylelint": "^16.21.0",
+    "stylelint-config-recommended": "^16.0.0"
   },
   "scripts": {
     "test": "grunt -v -d --stack test"
